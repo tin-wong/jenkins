@@ -13,7 +13,7 @@ import os
 #importing the sys module which provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter.
 import sys
 #importing the Appium Python bindings for Selenium Webdriver from the python Appium module.
-from appium import webdriver
+
 #importing the Selenium Python bindings for Selenium Webdriver from the python Selenium module.
 from selenium import webdriver
 #importing  the sauceclient which is a Python client library, used for accessing the Sauce Labs REST API to retrieve and update information about resources. 
